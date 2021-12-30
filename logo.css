@@ -1,0 +1,9 @@
+body {
+
+ background-image: url("logo.jpg");
+ background-size: 20%;
+ background-position-y: 60px;
+ background-position-x: 760px;
+background-repeat: no-repeat;
+ background-color: #cccccc;
+}
